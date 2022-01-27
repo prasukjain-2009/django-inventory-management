@@ -104,7 +104,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTACT -->
 ## Contact
 
-Prasuk Jain - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](linkedin.com/in/prasukjain-2009/)- [![GitHub](https://i.stack.imgur.com/tskMh.png) Github](https://github.com/prasukjain-2009) -  prasukjain@yahoo.com
+Prasuk Jain -  prasukjain@yahoo.com -  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](linkedin.com/in/prasukjain-2009/)- [![GitHub](https://i.stack.imgur.com/tskMh.png) Github](https://github.com/prasukjain-2009) 
 
 Project Link: [https://github.com/prasukjain-2009/django-auth-boilerplate](https://github.com/prasukjain-2009/django-auth-boilerplate)
 
