@@ -62,6 +62,8 @@ THIRD_PARTY_APPS = [
 
 LOCAL_APPS = [
     _APP_NAME + '.user.apps.UserAppConfig',
+    _APP_NAME + '.inventory',
+    _APP_NAME + '.common',
 ]
 
 
@@ -125,7 +127,7 @@ REST_FRAMEWORK = {
         'rest_framework.permissions.IsAuthenticated',
     ),
     'DEFAULT_AUTHENTICATION_CLASSES': (
-        'rest_framework_jwt.authentication.JSONWebTokenAuthentication',
+        'rest_framework_simplejwt.authentication.JWTAuthentication',
         'rest_framework.authentication.SessionAuthentication',
         'rest_framework.authentication.BasicAuthentication',
     ),

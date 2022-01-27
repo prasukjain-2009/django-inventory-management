@@ -1,13 +1,3 @@
-from django.contrib.auth.models import AbstractUser
-from django.db.models import CharField
-from django.urls import reverse
-from django.utils.translation import ugettext_lazy as _
-from model_utils.models import TimeStampedModel
-from django.contrib.postgres.fields import ArrayField
-from django.db import models
-from django.contrib.auth.models import AbstractUser
-
-
 from django.db import models
 from django.contrib.auth.models import (
     BaseUserManager, AbstractBaseUser
